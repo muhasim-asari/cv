@@ -1,0 +1,43 @@
+[
+    {
+      "type": "Web Development",
+      "name_project": "My Awesome Website",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Home Page"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Contact Page"}
+      ]
+    },
+    {
+      "type": "Mobile App",
+      "name_project": "Cool App",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "App Interface"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Settings Screen"}
+      ]
+    },
+    {
+      "type": "Data Analysis",
+      "name_project": "Data Insights",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Graphs and Charts"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Data Trends"}
+      ]
+    },
+    {
+      "type": "Graphic Design",
+      "name_project": "Creative Designs",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Artwork 1"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Artwork 2"}
+      ]
+    },
+    {
+      "type": "Machine Learning",
+      "name_project": "Smart Algorithms",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+      ]
+    }
+  ]
+  
