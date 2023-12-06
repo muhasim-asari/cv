@@ -1,43 +1,84 @@
 [
     {
-      "type": "Web Development",
-      "name_project": "My Awesome Website",
+      "type": "Mobile App",
+      "name_project": "Azana Priority App",
       "images": [
         {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Home Page"},
         {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Contact Page"}
-      ]
+      ],
+      "link" : "https://www.instagram.com/p/Cv83Wa_JQLM"
     },
     {
-      "type": "Mobile App",
-      "name_project": "Cool App",
+      "type": "Web Designing",
+      "name_project": "CMS Loyalty",
       "images": [
         {"url": "https://dummyimage.com/600x400/000/fff", "caption": "App Interface"},
         {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Settings Screen"}
-      ]
+      ],
+      "link" : "#"
     },
     {
-      "type": "Data Analysis",
-      "name_project": "Data Insights",
+      "type": "Web Designing",
+      "name_project": "FullBook CRM",
       "images": [
         {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Graphs and Charts"},
         {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Data Trends"}
-      ]
+      ],
+      "link" : "#"
     },
     {
-      "type": "Graphic Design",
-      "name_project": "Creative Designs",
+      "type": "Desktop App",
+      "name_project": "Self-Q Kiosk",
       "images": [
         {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Artwork 1"},
         {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Artwork 2"}
-      ]
+      ],
+      "link" : "#"
     },
     {
-      "type": "Machine Learning",
-      "name_project": "Smart Algorithms",
+      "type": "Mobile Designing",
+      "name_project": "DTC App",
       "images": [
         {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
         {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
-      ]
+      ],
+      "link" : "https://www.instagram.com/p/Cv66m_RpNBO"
+    },
+    {
+      "type": "Web Designing",
+      "name_project": "DepanMata",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+      ],
+      "link" : "https://www.instagram.com/p/Cv7SovnJ7ZJ"
+    },
+    {
+      "type": "Web Designing",
+      "name_project": "InstaPrint",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+      ],
+      "link" : "https://instaprint.id/"
+    },
+    {
+      "type": "Web Development",
+      "name_project": "DTC Store Template",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+      ],
+      "link" : "https://www.instagram.com/p/CzNGJpLvWde"
+    },
+    {
+      "type": "Web Development",
+      "name_project": "Pigijo.com",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+      ],
+      "link" : "https://pigijo.com/"
     }
   ]
   
