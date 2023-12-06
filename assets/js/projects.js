@@ -15,6 +15,7 @@ function renderProjects(data) {
   data.forEach(function (project) {
     var projectItem = document.createElement("div");
     projectItem.className = "col-md-4";
+    projectItem.style="min-width: 384px";
     projectItem.innerHTML = `
       <div data-aos="zoom-in">
         <div class="project-item shadow-box">
