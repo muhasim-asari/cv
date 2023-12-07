@@ -45,6 +45,15 @@
       "link" : "#"
     },
     {
+      "type": "Brochure Product",
+      "name_project": "Self-Q Kiosk",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-selfq-1.jpg", "caption": "Artwork 1"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-selfq-2.jpg", "caption": "Artwork 2"}
+      ],
+      "link" : "#"
+    },
+    {
       "type": "Mobile Designing",
       "name_project": "DTC App",
       "images": [
