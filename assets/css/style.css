@@ -709,7 +709,7 @@ ol {
 }
 @media (max-width: 585px) {
   .w-works-mobile {
-    min-width: 384px;
+    min-width: 330px;
   }
 }
 
