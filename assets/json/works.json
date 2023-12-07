@@ -84,8 +84,8 @@
       "type": "Web Development",
       "name_project": "Pigijo.com",
       "images": [
-        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
-        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-pigijo.jpg", "caption": "Algorithm Training"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-pigijo.jpg", "caption": "Prediction Results"}
       ],
       "link" : "https://pigijo.com/"
     }
