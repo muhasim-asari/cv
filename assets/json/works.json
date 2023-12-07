@@ -1,10 +1,19 @@
 [
     {
+      "type": "Web Designing",
+      "name_project": "JSY Company Website",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-jsy-1.jpg", "caption": "Home Page"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-jsy-2.jpg", "caption": "Contact Page"}
+      ],
+      "link" : "#"
+    },
+    {
       "type": "Mobile App",
       "name_project": "Azana Priority App",
       "images": [
-        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Home Page"},
-        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Contact Page"}
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-azana-priority-1.jpg", "caption": "Home Page"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-azana-priority-2.jpg.jpg", "caption": "Contact Page"}
       ],
       "link" : "https://www.instagram.com/p/Cv83Wa_JQLM"
     },
@@ -30,8 +39,8 @@
       "type": "Desktop App",
       "name_project": "Self-Q Kiosk",
       "images": [
-        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Artwork 1"},
-        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Artwork 2"}
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-selfq-1.jpg", "caption": "Artwork 1"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-selfq-2.jpg", "caption": "Artwork 2"}
       ],
       "link" : "#"
     },
