@@ -21,8 +21,8 @@
       "type": "Web Designing",
       "name_project": "CMS Loyalty",
       "images": [
-        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "App Interface"},
-        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Settings Screen"}
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/cms-loyalty.jpg", "caption": "App Interface"},
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/cms-loyalty.jpg", "caption": "Settings Screen"}
       ],
       "link" : "#"
     },
@@ -39,8 +39,8 @@
       "type": "Web Designing",
       "name_project": "FullBook CRM",
       "images": [
-        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Graphs and Charts"},
-        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Data Trends"}
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/admin-crm.jpg", "caption": "Graphs and Charts"},
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/admin-crm.jpg", "caption": "Data Trends"}
       ],
       "link" : "#"
     },
