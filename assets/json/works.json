@@ -1,5 +1,14 @@
 [
     {
+      "type": "Brochure Product",
+      "name_project": "NEW LOOK Self-Q Kiosk",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/new-look-self-q.png", "caption": "Home Page"},
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/new-look-self-q.png", "caption": "Contact Page"}
+      ],
+      "link" : "#"
+    },
+    {
       "type": "Front End Development",
       "name_project": "Concept Visione System",
       "images": [
@@ -15,7 +24,7 @@
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/project-jsy-1.jpg", "caption": "Home Page"},
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/project-jsy-2.jpg", "caption": "Contact Page"}
       ],
-      "link" : "#"
+      "link" : "https://www.instagram.com/p/Cv7PsOAJiea/"
     },
     {
       "type": "Mobile App",
@@ -24,7 +33,7 @@
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/project-azana-priority-1.jpg", "caption": "Home Page"},
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/project-azana-priority-2.jpg.jpg", "caption": "Contact Page"}
       ],
-      "link" : "https://www.instagram.com/p/portfolio83Wa_JQLM"
+      "link" : "https://www.instagram.com/p/Cv83Wa_JQLM/"
     },
     {
       "type": "Web Designing",
@@ -78,7 +87,7 @@
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/project-dtc-app-1.jpg", "caption": "Algorithm Training"},
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/project-dtc-app-2.jpg", "caption": "Prediction Results"}
       ],
-      "link" : "https://www.instagram.com/p/portfolio66m_RpNBO"
+      "link" : "https://www.instagram.com/p/Cv66m_RpNBO"
     },
     {
       "type": "Brochure Product",
@@ -91,12 +100,12 @@
     },
     {
       "type": "Web Designing",
-      "name_project": "DepanMata",
+      "name_project": "DepanMata / Venuloka",
       "images": [
-        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
-        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/depan-mata.png", "caption": "Algorithm Training"},
+        {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/depan-mata.png", "caption": "Prediction Results"}
       ],
-      "link" : "https://www.instagram.com/p/portfolio7SovnJ7ZJ"
+      "link" : "https://inspiro.xacloud.com/depan-mata/enduser/"
     },
     {
       "type": "Web Designing",
@@ -114,7 +123,7 @@
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/mmt-tirakatan.jpg", "caption": "Algorithm Training"},
         {"url": "https://muhasim-asari.github.io/portfolio/assets/images/projects/mmt-tirakatan.jpg", "caption": "Algorithm Training"}
       ],
-      "link" : "https://instaprint.id/"
+      "link" : "#"
     },
     {
       "type": "Web Development",
